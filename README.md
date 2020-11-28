@@ -1,4 +1,4 @@
-= TypeScript Microservice for PDF2JPEG conversion
+TypeScript Microservice for PDF2JPEG conversion
 
 Build:
 
