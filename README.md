@@ -11,4 +11,6 @@ Run server:
 
 See ske/ts-jobserver-simple for details.
 
-
+Dependencies:
+- poppler-utils
+- zip
