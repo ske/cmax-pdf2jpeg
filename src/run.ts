@@ -10,7 +10,7 @@ try {
     const jobServer = new Server({
         logger: logger,
         workdir: '/tmp',
-        port: 8080
+        port: 80
     });
 
     const sighandler = async () => {
